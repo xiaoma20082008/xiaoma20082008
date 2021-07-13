@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![xiaoma20082008's github stats](https://github-readme-stats.vercel.app/api?username=xiaoma20082008&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoma20082008&hide=html)
+
 <!--
 **xiaoma20082008/xiaoma20082008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
